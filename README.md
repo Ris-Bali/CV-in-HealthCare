@@ -19,8 +19,3 @@
 
 ![nucleigit](https://user-images.githubusercontent.com/81592570/156885708-55a28caa-48e9-48db-8d54-85d57c3cab6f.png)
 
-
-## To Do
-- [ ] Model for Brain Tumour segmentation
-- [ ] Model for detecting colon cancer using segmentation
-- [ ] Model for spleen detection
